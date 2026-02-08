@@ -1,2 +1,0 @@
-# Logicial
-open software sources
